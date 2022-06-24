@@ -1,4 +1,4 @@
-monies
+i do stuff i dunno lol
 
 <!---
 Gystre/Gystre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
