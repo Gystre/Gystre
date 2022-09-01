@@ -1,6 +1,6 @@
-<div align="center">
-	<h3><strong>Kyle Yu</strong></h3>
-	<a href="https://gystre.github.io">My website</a>
+# Kyle Yu
+
+[My website](https://gystre.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyle-yu-3139a5140/)
 
@@ -8,7 +8,7 @@ i do stuff i dunno lol
 
 # Working on...
 
--   Wordsearcher - [link](https://github.com/Gystre/wordsearcher)
+Wordsearcher - [link](https://github.com/Gystre/wordsearcher)
 
 # Skills
 
@@ -30,7 +30,7 @@ i do stuff i dunno lol
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-# Some Stats
+# Some stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gystre&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
@@ -44,5 +44,3 @@ i do stuff i dunno lol
 ---
 
 [![](https://visitcount.itsvg.in/api?id=gystre&icon=0&color=1)](https://visitcount.itsvg.in)
-
-</div>
