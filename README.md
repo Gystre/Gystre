@@ -2,7 +2,7 @@
 
 [My website](https://gystre.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyle-yu-3139a5140/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kyle-yu-3139a5140/)
 
 i do stuff i dunno lol
 
