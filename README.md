@@ -41,6 +41,6 @@ Wordsearcher - [link](https://github.com/Gystre/wordsearcher)
 <!-- most used languages -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gystre&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
----
+![profile views](https://komarev.com/ghpvc/?username=gystre&style=for-the-badge)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=gystre&icon=0&color=1)
+![](https://hit.yhype.me/github/profile?user_id=37854809)
