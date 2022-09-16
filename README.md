@@ -1,14 +1,13 @@
 # Kyle Yu
 
-[My website](https://gystre.github.io)
-
+[![My Website](https://img.shields.io/badge/My%20Website-%2317DEFE.svg?style=for-the-badge&logo=html5&logoColor=white)](https://gystre.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kyle-yu-3139a5140/)
 
 i do stuff i dunno lol
 
 # Working on...
 
-Wordsearcher - [link](https://github.com/Gystre/wordsearcher)
+[![Wordsearcher Link](https://img.shields.io/badge/Wordsearcher-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gystre/wordsearcher)
 
 # Skills
 
