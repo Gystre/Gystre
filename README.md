@@ -7,15 +7,17 @@ i do stuff i dunno lol
 
 # Working on...
 
+[![What to Watch Now](https://img.shields.io/badge/What%20To%20Watch%20Now-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gystre/wtwn-myanimelist)
 [![Wordsearcher Link](https://img.shields.io/badge/Wordsearcher-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gystre/wordsearcher)
+![Roblox Survival Game](https://img.shields.io/badge/Survival%20Game-%2300afff.svg?style=for-the-badge&logo=roblox&logoColor=white)
 
 # Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
