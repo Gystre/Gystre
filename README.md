@@ -7,7 +7,6 @@ i do stuff i dunno lol
 
 # Working on...
 
-[![What to Watch Now](https://img.shields.io/badge/What%20To%20Watch%20Now-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gystre/wtwn-myanimelist)
 [![Wordsearcher Link](https://img.shields.io/badge/Wordsearcher-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gystre/wordsearcher)
 ![Roblox Survival Game](https://img.shields.io/badge/Survival%20Game-%2300afff.svg?style=for-the-badge&logo=roblox&logoColor=white)
 
