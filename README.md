@@ -3,11 +3,7 @@
 [![My Website](https://img.shields.io/badge/My%20Website-%2317DEFE.svg?style=for-the-badge&logo=html5&logoColor=white)](https://kyleyu.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kyle-yu-3139a5140/)
 
-i do stuff i dunno lol
-
-# Working on...
-
-[![Wordsearcher Link](https://img.shields.io/badge/Wordsearcher-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gystre/wordsearcher)
+i work on stuff sometimes
 
 # Skills
 
@@ -29,7 +25,7 @@ i do stuff i dunno lol
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-# Some stats
+# Some Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gystre&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
