@@ -1,6 +1,6 @@
 # Kyle Yu
 
-[![My Website](https://img.shields.io/badge/My%20Website-%2317DEFE.svg?style=for-the-badge&logo=html5&logoColor=white)](https://gystre.github.io)
+[![My Website](https://img.shields.io/badge/My%20Website-%2317DEFE.svg?style=for-the-badge&logo=html5&logoColor=white)](https://kyleyu.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/kyle-yu-3139a5140/)
 
 i do stuff i dunno lol
